@@ -52,9 +52,9 @@ The weekly sales of Bike Components from Preppin's bike store Allchains is what 
 
 8. Results
 
-![image](https://user-images.githubusercontent.com/74035071/128637745-45a8754c-54a4-4be3-9dd7-9a69feb4762b.png)
+![Results from workflow](https://user-images.githubusercontent.com/74035071/128637745-45a8754c-54a4-4be3-9dd7-9a69feb4762b.png)
 
 ### Full Workflow 
 
-![image](https://user-images.githubusercontent.com/74035071/128637773-2d3cbcfd-dd3f-452f-b685-dd41be95f6bd.png)
+![Full Alteryx Workflow](https://user-images.githubusercontent.com/74035071/128637773-2d3cbcfd-dd3f-452f-b685-dd41be95f6bd.png)
 
