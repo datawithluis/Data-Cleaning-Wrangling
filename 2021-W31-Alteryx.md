@@ -3,7 +3,8 @@
 #### Solution by Luis Garcia Fuentes
 #### For more details on this weekly challenge visit [Preppin Data](https://preppindata.blogspot.com/)
 
-## Excelling in Prep Challenge
+## Excelling in Prep Challenge 
+Link to Challenge - https://preppindata.blogspot.com/2021/08/2021-week-36-excelling-in-prep.html
 
 ### Details
 
